@@ -1,3 +1,10 @@
+#Тестовое задание интернет-магазина
+
+ Филиппов Максим Сергеевич
+ Тестовое задание на создание интернет-магазина
+ Описание: интернет-магазин с тремя пунктами оформления заказа
+ В проекте используется: Redux, Router-Dom, , Semantic UI, Lodash, Axios, Yandex Map API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
