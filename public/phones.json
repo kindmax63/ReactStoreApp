@@ -1,0 +1,41 @@
+[
+  {
+    "id": 0,
+    "title": "iPhone 11",
+    "author": "Apple",
+    "image": "https://static.eldorado.ru/photos/mv/Big/30063493bb.jpg",
+    "price": 50000,
+    "rating": 5,
+    "memory": "64Гб"
+  },
+  {
+    "id": 1,
+    "title": "iPhone 12",
+    "author": "Apple",
+    "image": "https://static.eldorado.ru/photos/mv/Big/30063498bb.jpg",
+    "price": 60000,
+    "rating": 5,
+    "memory": "128Гб"
+  },
+
+  {
+    "id": 2,
+    "title": "Galaxy S23",
+    "author": "Samsung",
+    "image": "https://static.eldorado.ru/photos/mv/Big/30067205bb.jpg",
+    "price": 79999,
+    "rating": 5,
+    "memory": "128Гб"
+  },
+
+  {
+    "id": 3,
+    "title": "Redmi 9C",
+    "author": "Xiaomi",
+    "image": "https://static.eldorado.ru/photos/mv/Big/30063444bb.jpg",
+    "price": 10000,
+    "rating": 5,
+    "memory": "64Гб"
+  }
+
+]
