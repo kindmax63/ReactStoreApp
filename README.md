@@ -6,7 +6,7 @@
 
 Описание: интернет-магазин с тремя пунктами оформления заказа
 
-В проекте используется: Redux, Router-Dom, , Semantic UI, Lodash, Axios, Yandex Map API
+В проекте используется: Redux, Router-Dom,Semantic UI, Lodash, Axios, Yandex Map API
 
 # Getting Started with Create React App
 
